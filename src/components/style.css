@@ -1,0 +1,209 @@
+.btn-box{
+    display: flex;
+    margin-left: 840px;
+}
+
+
+.ca-flex{
+    display: flex;
+}
+
+.image{
+    width: 70px;
+    height: 70px;
+}
+
+.no-btn{
+    border-color:transparent;
+    background-color: transparent;
+    outline: #fff;
+}
+
+.cart-top{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        background-color: white;
+        gap: 2rem; /* Assuming a base font size of 16px, 1rem is 16px, so 8 * 1rem = 8 * 16px = 128px */
+        padding: 2.5rem; /* Assuming a base font size of 16px, 1rem is 16px, so 10 * 1rem = 10 * 16px = 160px */
+        color: black;
+        font-size: 0.875rem; /* Assuming a base font size of 16px, 0.875 * 16px = 14px */
+      
+      
+}
+
+.text-2xl {
+    font-size: 1.5rem; /* Assuming a base font size of 16px, 1.5 * 16px = 24px */
+    font-weight: bold;
+  }
+
+  .flex-gap-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #fafafa;
+    width: 950px;
+    padding: 35px;
+    gap: 1rem; /* Assuming a base font size of 16px, 1rem is 16px, so 4 * 1rem = 4 * 16px = 64px */
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  .flex-gap {
+    display: flex;
+    gap: 1rem; /* Assuming a base font size of 16px, 1rem is 16px, so 4 * 1rem = 4 * 16px = 64px */
+  }
+
+  .name-case{
+    margin-left: 120px;
+
+
+  }
+
+
+  .items-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .rounded-mdh{
+    border-radius: 0.375rem; /* Equivalent to 6px assuming 1rem = 16px */
+    height: 6rem; /* Equivalent to 96px assuming 1rem = 16px */
+  }
+
+  .btn-case{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+  }
+  
+  /* Styling for the base state */
+.cart-btn {
+    color: #fff;
+    font-size: 2rem; /* Assuming a base font size of 16px, 0.75 * 16px = 12px */
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 50%;
+    border: none;
+    height: 70px; 
+    width: 70px ;
+
+
+    
+
+
+  }
+.qyt-box{
+    /* background-color: #fff; */
+    border: 1px solid gray;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 3px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+
+}  
+
+.total-case{
+ margin-left: 600px;
+ display: block;
+}
+
+.clr-btn{
+    margin-left: 150px;
+}
+
+.display-box {
+  width: 250px;
+  height: 121px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+  margin-right: 20px;
+}
+
+.sm-in-box {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.sl-in-box{
+  color: #353535;
+  font-family: Rubik;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35.973px;
+}
+
+.lg-in-box {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35.973px;
+}
+
+
+.data-card {
+  display: inline-flex;
+  width: 529px;
+  height: 294px;
+  padding: 30px 21px 49px 18px;
+  align-items: flex-start;
+  gap: 16px;
+  border-radius: 10px;
+  background: var(--background-light-100-bg-primary, #fff);
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+  margin-top: 40px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.xs-in-box {
+  color: #58e58c;
+  font-family: Mulish;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.user-tag{
+display: flex;
+justify-content: end;
+margin-right: 20px;
+
+}
+
+.display-tag{
+  margin-bottom: 8px;
+}
+
+.bg-g2{
+  background-color: rgb(84, 138, 84);
+}
+
+.bg-g3{
+  background-color:#a5c2b0;
+}
+
+.bg-g4{
+  background-color:#69716c;
+}
+
+.text-box{
+ 
+  width: 50px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+ 
+
+}
