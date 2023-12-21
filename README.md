@@ -1,4 +1,5 @@
 React frontend ecomm webapp conneted to the backend via REST API
+<img src="web page_page-00.jpg" width=""1200" height="700">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
